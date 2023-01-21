@@ -33,15 +33,15 @@ h1 {
 }
 
 .col:nth-child(1) h3 {
-    background-color: #579fe6;
+    background-color: #318f50;
 }
 
 .col:nth-child(2) h3 {
-    background-color: #d23aed;
+    background-color: #c71c6f;
 }
 
 .col:nth-child(3) h3 {
-    background-color: #f7f24c;
+    background-color: #14579f;
 }
 
 
